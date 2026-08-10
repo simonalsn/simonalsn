@@ -3,7 +3,7 @@
 
 ### I’m interested in:
 - Electronics.
-- low level software.
+- Low level software and firmware.
 - AI.
 - Game development.
 - CAD.
