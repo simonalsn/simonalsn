@@ -1,31 +1,20 @@
-Hi, I’m @simonalsn
+## Hi, I’m @simonalsn
 
 
-# I’m interested in:
-
-Electronics.
-
-low level software.
-
-AI.
-
-Game development.
-
-CAD.
-
-3D printing and building 3D printers.
-
-Strange keyboards, daily using a Colemak 5x3+2 (x2) split keyboard assembled/soldered from naked PCB and components by me. I have a characorder cc2 that I'm trying to learn to type on.
+### I’m interested in:
+- Electronics.
+- low level software.
+- AI.
+- Game development.
+- CAD.
+- 3D printing and building 3D printers.
+- Strange keyboards, daily using a Colemak 5x3+2 (x2) split keyboard assembled/soldered from naked PCB and components by me. I have a characorder cc2 that I'm trying to learn to type on.
 
 
-- I’m currently working on: (hobby)
+### I’m currently working on: (hobby)
+- a 2D space transporter game: (in private repo for now.)
 
-a 2D space transporter game: (in private repo for now.)
-
-
-
-- Work: (day job)
-
+### Work: (day job)
 I'm a product manager working on industry product lifecycle management software, mostly AI features for the general software as well as electronics software integrations.
 
 <!---
